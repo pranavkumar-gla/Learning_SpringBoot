@@ -5,3 +5,6 @@ Following are the two option
 
 1. Manually creating a spring boot project with maven
 2. Using Spring initializer 
+
+
+Link: http://localhost:8080/api/sayHello
