@@ -1,1 +1,1 @@
-1. Leaning - Spring Boot (Application Development) 
+1. Learning - Spring Boot (Application Development) 
