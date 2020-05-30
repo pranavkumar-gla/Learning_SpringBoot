@@ -1,10 +1,9 @@
-1. Learning - Spring Boot (my.learning.Application Development) 
+1. Learning - Spring Boot (my.learning.Application Development) : Hello World.
 
-There is no support to create Spring Boot projects using integrated Spring Initializer through the IDE in community version
-Following are the two option 
+IntelliJ IDEA Community edition (2020.1) as per the documentation, does not support creation of Spring Boot projects using Spring Initializr from within the IDEA. 
 
+So, we have two option:
 1. Manually creating a spring boot project with maven
-2. Using Spring initializer 
-
+2. Using Spring initializr web @ https://start.spring.io/
 
 Link: http://localhost:8080/api/sayHello
